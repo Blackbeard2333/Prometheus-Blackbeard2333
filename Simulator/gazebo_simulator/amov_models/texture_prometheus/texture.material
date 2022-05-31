@@ -7,7 +7,8 @@ material prometheus_logo1
      texture_unit
      {
        // Relative to the location of the material script
-       texture prometheus_logo_square.png
+       //texture prometheus_logo_square.png
+       texture pratt.jpeg
        // Repeat the texture over the surface (4 per face)
        scale 1.0 1.0
      }
@@ -23,7 +24,8 @@ material prometheus_logo2
      texture_unit
      {
        // Relative to the location of the material script
-       texture prometheus_logo_square2.png
+       //texture prometheus_logo_square2.png
+       texture pratt.jpeg
        // Repeat the texture over the surface (4 per face)
        scale 1.0 1.0
      }

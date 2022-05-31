@@ -7,7 +7,8 @@ material Cube/logo_ground
     {
       texture_unit
       {
-        texture logo_ground.png
+        //texture logo_ground.png
+        texture pratt.jpeg
       }
     }
   }
